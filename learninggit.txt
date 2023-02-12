@@ -1,3 +1,4 @@
 thưc mục đang làm việc
 staging Area : khủ vực theo dọi đc 
 commited
+git log : cho ta xem laị đạ tạo  cho ta xem  commit  khác
