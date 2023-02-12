@@ -1,4 +1,11 @@
+thiết lập tải khoảng vào git 
+git config --global user.name 'hoa-kidnav'
+git config --global user.gmai 'hoangbmt522@gmail.com'
+
+git init : khơi tạo git repository
+git status :để xem mục dự án
 thưc mục đang làm việc
 staging Area : khủ vực theo dọi đc 
-commited
+git commit -m : đưa git lên và đưa thông tin b   repository 
 git log : cho ta xem laị đạ tạo  cho ta xem  commit  khác
+git remote add origin git@github.com:hoa-kidnav/hoa-kidnav.git : đường dân dân repository
