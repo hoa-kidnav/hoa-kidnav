@@ -9,3 +9,5 @@ staging Area : khủ vực theo dọi đc
 git commit -m : đưa git lên và đưa thông tin b   repository 
 git log : cho ta xem laị đạ tạo  cho ta xem  commit  khác
 git remote add origin git@github.com:hoa-kidnav/hoa-kidnav.git : đường dân dân repository
+git branch -M main
+git push -u origin main
